@@ -5,7 +5,7 @@ Designed an **IT SLA Support Performance Dashboard** using Microsoft Excel to an
 ---
 
 ### 1. SLA Dashboard
-![SLA Dashboard](Screenshots/SLA%20Dashboard.png)
+![SLA Dashboard](Screenshots/dashboard.png)
 
 ---
 
@@ -25,7 +25,7 @@ The project focuses on:
   ---
 
   ## Business Problem
-  An IT support team resolves hundreds of tickets a month. Managers need quick answers to questions such as:
+- An IT support team resolves hundreds of tickets a month. Managers need quick answers to questions such as:
 - Are we meeting our SLA target overall?
 - Which request types, priorities, agents, regions and countries cause the most breaches?
 - Is SLA performance improving or getting worse over time?
