@@ -5,7 +5,8 @@ Designed an **IT SLA Support Performance Dashboard** using Microsoft Excel to an
 ---
 
 ### 1. SLA Dashboard
-![SLA Dashboard](Screenshots/dashboard.png)
+<img width="1914" height="772" alt="Dashboard" src="https://github.com/user-attachments/assets/d1d69304-0f40-4b34-9bed-c49bd8e4414c" />
+
 
 ---
 
