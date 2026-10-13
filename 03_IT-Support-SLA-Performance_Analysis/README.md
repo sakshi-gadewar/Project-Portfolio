@@ -7,7 +7,6 @@ Designed an **IT SLA Support Performance Dashboard** using Microsoft Excel to an
 ### 1. SLA Dashboard
 <img width="1914" height="772" alt="Dashboard" src="https://github.com/user-attachments/assets/d1d69304-0f40-4b34-9bed-c49bd8e4414c" />
 
-
 ---
 
 ## Project Overview
@@ -39,7 +38,6 @@ This dashboard answers those questions on one screen. Slicers let anyone filter 
 The goal of this project is to demonstrate how ticket data can be transformed into meaningful operational reports. Using Excel data analysis and visualization techniques, the dashboard summarizes SLA performance, tracks ticket status, and helps identify areas that may require further investigation or improvement.
 
 ---
-
 
 ## Dataset Overview
 
@@ -88,7 +86,6 @@ The KPI cards are linked to pivot cells with formulas, so they update automatica
 
   ---
 
- 
 ## Key Insights
 
 - **Overall SLA Compliance:** 94.05%, with 67 SLA breaches out of 1,126 support tickets.
@@ -124,6 +121,7 @@ The KPI cards are linked to pivot cells with formulas, so they update automatica
 - how to Connected slicers to multiple PivotTables to make the dashboard interactive.
 - how to Link KPI cards to PivotTable results using `GETPIVOTDATA` and `INDEX` / `MATCH`.
 - how to check that chart axes and titles describe the data honestly.
+  
 ---
 
 ## Limitations and Assumptions
