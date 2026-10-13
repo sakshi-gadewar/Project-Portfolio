@@ -7,7 +7,7 @@ The main goal of this project is to make it easier to track customer support act
 ---
 
 ### Customer Support Dashboard
-
+04_Customer_Support_Insights_Analysis/Dashboard.png
 
 ---
 
